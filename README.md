@@ -20,4 +20,4 @@ You might get an error with the clear screen command I am pulling from the os mo
 
 ## So.... How do I use it?
 
-Hit your command line and go to the location with these files. Type bulkdelete.py and it should work its way through the access tokens you gave it and delete up to 100 files at a time from each access token in the _tokens dict. Slack gives us 100 items per page and I am not paginating the results to keep this as simple as possible pecause my python knowledge is beginner at most.
+Hit your command line and go to the location with these files. Type bulkdelete.py and it should work its way through the access tokens you gave it and delete up to 100 files at a time from each access token in the \_tokens dict. Slack gives us 100 items per page and I am not paginating the results to keep this as simple as possible pecause my python knowledge is beginner at most and my lack of time is advanced at best. 
